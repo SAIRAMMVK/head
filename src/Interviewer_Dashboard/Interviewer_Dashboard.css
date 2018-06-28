@@ -1,0 +1,295 @@
+#ID_topic
+{
+    color:White;
+    font-size: 20px;
+     position: relative;
+     top:20px;
+     letter-spacing: 3px;
+     
+font-family: 'Shrikhand', cursive;
+font-family: 'Eater', cursive;
+    text-shadow: 0 0 5px #ffffff,
+            0 0 10px #ffffff,
+            0 0 15px #ffffff,
+            0 0 20px #228DFF,
+            0 0 35px #228DFF,
+            0 0 40px #228DFF,
+            0 0 50px #228DFF,
+            0 0 75px #228DFF;
+
+}
+#ID_head_nav
+{
+    height: 80px;
+}
+#ID_main_head
+{
+    color:white;
+    font-size: 20px;
+    position: relative;
+    left:450px;
+    top:20px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    text-shadow: 1px 2px white;
+    font-family: 'Shrikhand', cursive;
+}
+#ID_settings_page
+{
+    
+    float: right;
+    /*bottom: 80px;*/
+    position: relative;
+    right: 172px;
+    top:20px;
+    
+}
+#ID_settings
+{
+    color: white;
+    font-size: 23px;
+}
+#ID_settings_name
+{
+    color:black;
+    font-weight: bold;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+#ID_settings_name:hover
+{
+  color:#7db8c1;
+  
+}
+
+#ID_card
+{
+    margin-top:35px;
+    width: 260px;
+    height:250px;
+    background-color: black;
+    margin-left:30px;
+    border-radius: 2rem;
+    transition: all .35s ease-in;
+}
+#ID_card_U
+{
+    margin-top:35px;
+    width: 260px;
+    height:250px;
+    background-color: #63605f;
+    margin-left:30px;
+    border-radius: 2rem;
+    transition: all .35s ease-in;
+}
+#ID_card:hover{
+    box-shadow: 5px 5px 5px #414647;
+}
+#ID_card_U:hover{
+    box-shadow: 5px 5px 5px black;
+}
+#ID_box_container
+{
+    
+    width:900px;
+}
+#ID_card_heading
+{
+    color:white;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom:20px;
+        font-weight: bold;
+
+}
+#ID_card_U_heading
+{
+    color:white;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom:20px;
+        font-weight: bold;
+
+}
+#ID_card_start_time
+{
+     color:white;
+    text-align: center;
+    letter-spacing: 2px; 
+    margin-bottom:20px;
+    font-weight: bold;
+    
+    
+}
+#ID_card_U_start_time
+{
+     color:white;
+    text-align: center;
+    letter-spacing: 2px; 
+    margin-bottom:20px;
+    font-weight: bold;
+    
+    
+}
+#ID_card_date
+{
+    color:#46a054;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom:20px;
+    font-weight: bold;
+    
+    
+}
+#ID_card_U_date
+{
+    color:#46a054;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom:20px;
+    font-weight: bold;
+    
+    
+}
+#ID_card_stop_time
+{
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom:20px;
+    
+}
+#ID_card_U_stop_time
+{
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom:20px;
+    
+}
+#ID_view_data
+{
+    margin-left: 40px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    width:150px;
+}
+#ID_view_U_data
+{
+    margin-left: 40px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    width:150px;
+    
+}
+#ID_view_data:hover
+{
+   font-weight: bold;
+
+}
+#ID_view_U_data:hover
+{
+   font-weight: bold;
+
+}
+#ID_rec
+{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+    /*animation:blinkingText 1s infinite;*/
+}
+#ID_rec:hover
+{
+    text-shadow: 1px 1px black;
+}
+
+#ID_st,#ID_et
+{
+    color:#4672ba;
+}
+#ID_sst,#ID_eet
+{
+    color:#c15c3a;
+}
+
+#ID_points
+{
+    width: 450px;
+    height: 350px;
+   
+    background-color: #8dd6d2;
+    border-radius: 1rem;
+    margin-top:90px;
+    
+}
+.line
+{
+    display: inline-block;
+}
+#ID_points_head
+{
+    font-size: 30px;
+    color:white;
+}
+#ID_tt
+{
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    width: 50px;
+    letter-spacing: 2px;
+}
+#ID_tm
+{
+       color:black;
+    font-size: 25px;
+    font-weight: bold;
+    width: 50px;
+    margin-left: 50px;
+    letter-spacing: 2px;
+    
+    
+}
+#ID_tt_tm
+{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+#ID_tt_v
+{
+    color:#d8553e;
+    font-size: 30px;
+    font-weight: bold;
+    width: 50px;
+    letter-spacing: 2px;
+    position: relative;
+    
+    
+}
+#ID_tm_v
+{
+       color:#d8553e;
+    font-size: 30px;
+    font-weight: bold;
+    width: 50px;
+   position: relative;
+   left:95px;
+    letter-spacing: 2px;
+    
+}
+#ID_tt_tm_v
+{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+#ID_logout
+{
+    position: relative;
+    left: 800px;
+    top:20px;
+    width:100px;
+    letter-spacing: 2px;
+}

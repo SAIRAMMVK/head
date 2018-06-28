@@ -1,0 +1,18 @@
+
+.skillContent{
+  height: 119px;
+  text-align: center;
+  color:red;
+  background-color: beige;
+  border-radius: 2px;
+  margin:3%;
+  width: 170px;
+  margin-left: 10%;
+}
+.skill_position{
+    padding:30px;
+}
+.delete_skill{
+  background: none;
+  color:green;
+}

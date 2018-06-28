@@ -1,0 +1,174 @@
+
+
+.home_row
+{
+    margin-top:0px;
+    display: flex;
+}
+#HPC_signin{
+    height:120px;
+    font-size: 30px;
+    background-color: #6da845;
+    width:450px;
+    color:white;
+ border-top-left-radius: 2rem;
+ border-top-right-radius: 2rem;
+ font-family: 'Eater', cursive;
+}
+#HPC_top_name{
+   position: relative;
+   top:50px;
+   margin-left:170px;
+}
+.inp
+{
+ 
+    margin-top: 30px;
+    margin-left:13px;
+    width:350px;
+    height: 50px;
+    background-color: #dee2dc;
+    color:black;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.inp:focus { 
+
+  box-shadow: 3px 3px black;
+  width:350px;
+  background-color: #7a7473;
+  color:white;
+  border-color:white;
+}
+#HPC_text
+{
+    border-radius: 2rem;
+}
+#HPC_password
+{
+    border-radius: 2rem;
+}
+.bt1
+{
+    margin-top:50px;
+    margin-left:50px;
+    width:350px;
+    border-radius: 1rem;
+    letter-spacing: 3px;
+      transition: all .30s ease-in-out;
+}
+#HPC_dont{
+    margin-top:20px;
+    margin-left:130px;
+
+     
+}
+.bt1:hover
+{
+    box-shadow: 3px 3px black;
+    font-weight: bold;
+}
+.bt2
+{
+    margin-left:20px;
+    letter-spacing: .2px;
+    transition: all .30s ease-in-out;
+
+}
+.bt3
+{
+  margin-left: 25px;
+      letter-spacing: .2px;
+         transition: all .30s ease-in-out;
+}
+.bt2:hover
+{
+    box-shadow: 3px 3px black;
+    
+}
+.bt3:hover
+{
+    box-shadow: 3px 3px black;
+}
+.bend
+{
+    width:470px;
+    margin-left:55px;
+    margin-top: 0px;
+    height: 500px;
+    border-radius: 2rem;
+}
+
+
+
+
+.content_page
+{
+    margin-top:20px;
+    background-color: #706d6f;
+    height:500px;
+    border-radius: 2rem;
+    transition: all 1s ease-in-out;
+    margin-right: 25px;
+    
+}
+.content_page:hover
+{
+    box-shadow: 3px 5px black;
+}
+#HPC_about
+{
+    color:white;
+    text-align: center;
+    font-size:25px;
+    font-family: 'Eater', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive;
+letter-spacing: 3px;
+word-spacing: 4px;
+
+}
+#HPC_about_content
+{
+    color:white;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    word-break: initial;
+     margin:35px;
+     font-family: 'Eater', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Permanent Marker', cursive;
+
+}
+#HPC_dont
+{
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#name_error
+{
+    color:#bc421a;
+    font-size: 20px;
+    margin-left:80px;
+    font-weight: bold;
+letter-spacing: 2px;    
+word-spacing: 3px;    
+}
+
+#password_error
+{
+    color:#bc421a;
+    font-size: 20px;
+    font-weight: bold;
+letter-spacing: 2px;    
+    margin-left:80px;
+word-spacing: 3px;    
+    
+}
+.btn{
+    width: 197px;
+}

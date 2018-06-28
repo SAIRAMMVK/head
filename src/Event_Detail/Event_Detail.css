@@ -1,0 +1,116 @@
+#ED_viewpage
+{
+    margin-top:50px;
+  
+    height:150px;
+    border-radius: 2rem;
+    background: linear-gradient(-90deg,#667eea , #764ba2);
+}
+#ED_timeslots
+{
+   font-size: 25px;
+   letter-spacing: 1px;
+    width: 200px;
+    color:white;
+  position: relative;
+  top:35px;
+  font-weight: bold;
+}
+#ED_inside
+{
+  
+     width:400px;
+     height: 130px;
+    margin-left: 350px;
+   position: relative;
+   bottom: 85px;
+}
+#ED_insidecontent
+{
+ display: inline;
+ width: 200px;
+  height: 33.33px;
+  color: white;
+ 
+}
+#ED_inside_i
+{
+color:white;
+font-size: 25px;
+margin-top: 5px;
+}
+#ED_inside_span
+{
+ font-size: 20px;
+ letter-spacing: 1px;
+ margin-left: 5px;
+ font-weight: bold;
+}
+#ED_points
+{
+    width:80px;
+    background-color: white;
+    position: relative;
+    left:920px;
+    bottom: 7px;
+    text-align: center;
+    border-radius: 5rem;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+#ED_V
+{
+ letter-spacing: 2px;
+ font-weight: bold;
+}
+#ED_U
+{
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+#ED_updatepage
+{
+    margin-left: 400px;
+    margin-top: 50px;
+    width:550px;
+    height: 250px;
+    /* background-color: red; */
+}
+#ED_name
+{
+    color:black;
+    letter-spacing: 2px;
+    font-weight: bold;
+    width: 100px;
+    margin-top: 20px;
+}
+#ED_updatepoints
+{
+    color:white;
+    letter-spacing: 2px;
+    font-weight: bold;
+    width: 55px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 0px;
+    font-size: 25px;
+    background-color: black;
+    border-radius: 2rem;
+    text-align: center;
+    
+}
+#ED_update
+{
+    color:white;
+    letter-spacing: 2px;
+    font-weight: bold;
+    width: 100px;
+    margin-top: 15px; 
+}
+#ED_updatebutton
+{
+    margin-left: 570px;
+    margin-top: 50px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}

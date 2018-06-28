@@ -1,0 +1,93 @@
+/* #playground-container {
+  height: 500px;
+  overflow: hidden !important;
+} */
+/* body,
+html {
+  height: 100%;
+  background-repeat: no-repeat;
+
+  font-family: "Oxygen", sans-serif;
+  background-size: cover;
+} */
+
+/* .main {
+  margin: 50px 15px;
+} */
+
+/* h1.title {
+  font-size: 50px;
+  font-family: "Passion One", cursive;
+  font-weight: 400;
+} */
+
+/* hr {
+  width: 10%;
+  color: #fff;
+} */
+
+#form-group_1 {
+  margin-bottom: 15px;
+}
+
+#DR_label {
+  margin-bottom: 15px;
+}
+
+.DR_input,
+input::-webkit-input-placeholder {
+  font-size: 11px;
+  padding-top: 3px;
+}
+
+.DR_main-login {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+/* .form-control {
+  height: auto !important;
+  padding: 8px 12px !important;
+} */
+#DR_input-group {
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.21) !important;
+}
+/* #button {
+  border: 1px solid #ccc;
+  margin-top: 28px;
+  padding: 6px 12px;
+  color: #666;
+  text-shadow: 0 1px #fff;
+  box-shadow: 0 1px #fff inset, 0 1px black;
+  border-radius: 3px 3px;
+  background: black;
+} */
+/* .span-for-errors {
+  display: none;
+  color:black;
+} */
+.DR_main-center {
+  margin-top: 30px;
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 10px 40px;
+  background:white;
+  color:black;
+  text-shadow: none;
+  box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.31);
+}
+#DR_span  {
+  color: black;
+  font-size: 17px;
+}
+#DR_icon{
+  color:black;
+  font-size: 17px;
+}
+.DR_select{
+  color:black;
+}
+#DR_button{
+  margin-left:20px;
+  padding: 6px 12px;
+}
